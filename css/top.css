@@ -1,7 +1,8 @@
 p {
     margin:0px;  
     font-size: 30px;
-    color:black
+    color:black;
+    padding: 5px;
 }
 
 h1 {
@@ -51,9 +52,21 @@ li.items{
 .contents {
     height: 500px;
   }
-  
+
 .contents-item {
     float: left;
+    margin-right: 40px;
+    height: 280px;
+}
+
+.contents-item-cars {
+    float: left;
+    margin-right: 40px;
+    height: 280px;
+}
+
+.contact-form {
+    padding-top: 100px;
 }
 
 .footer {
